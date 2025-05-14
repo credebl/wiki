@@ -4,7 +4,7 @@ Most of the information about credebl can be found on https://docs.credebl.id/do
 
 This wiki hosts the following information:
 
-[Meeting Information](https://github.com/credebl/wiki/blob/main/Meeting-Information.md[Meeting Information]()
+[Meeting Information](https://github.com/credebl/wiki/blob/main/Meeting-Information.md)
 
 [Communication](https://github.com/credebl/wiki/blob/main/Communication.md) (Discord and mailing list)
 
