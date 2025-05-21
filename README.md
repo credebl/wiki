@@ -12,7 +12,7 @@ The meeting takes place weekly on Wednesday, 12.30 PM India Time. See [World Tim
 
 You can join the meeting using zoom: [https://zoom-lfx.platform.linuxfoundation.org/meeting/95415588760?password=bee3e742-10db-4224-8991-d61053249ce9](https://www.google.com/url?q=https://zoom-lfx.platform.linuxfoundation.org/meeting/95415588760?password%3Dbee3e742-10db-4224-8991-d61053249ce9&sa=D&source=calendar&ust=1744007067777509&usg=AOvVaw3v_QTw7HDN0zs0vhEmLdom)
 
-Meeting notes will be archived in the Wiki here after the call. We are in process of setting up things.
+Meeting notes will be archived in the Wiki here after the call - https://github.com/credebl/wiki/wiki
 
 ## Communication:
 
