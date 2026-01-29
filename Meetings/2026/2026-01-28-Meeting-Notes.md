@@ -18,6 +18,7 @@
 ### Action Items
 - Roadmap discussion
 - Reform TAC and schedule meeting
+- Review PR from Bhutan NDI team - https://github.com/credebl/mobile-sdk/pull/67
 
 ## Notes
 
