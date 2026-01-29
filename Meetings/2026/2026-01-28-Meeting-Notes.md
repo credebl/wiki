@@ -1,12 +1,12 @@
 # 2026-01-28 Meeting Notes
 
 ## Attendees
-- Ankita Patidar
-- Pranali Dhanavade
-- Rohit Shitre
-- Tipu Singh
-- Sujit
-- Tushar Bhayani
+- [Ankita Patidar]([url](https://github.com/ankita-p17))
+- [Pranali Dhanavade]([url](https://github.com/pranalidhanavade))
+- [Rohit Shitre]([url](https://github.com/shitrerohit))
+- [Tipu Singh]([url](https://github.com/tipusinghaw))
+- [Sujit]([url](https://github.com/sujitaw))
+- [Tushar Bhayani]([url](https://github.com/tusharbhayani))
 
 ## Agenda
 - New PRs - Open and closed since last meeting
